@@ -39,7 +39,7 @@ public class Constants {
             remoteMsgHeaders = new HashMap<>();
             remoteMsgHeaders.put(
                     REMOTE_MSG_AUTHORIZATION,
-                    "key=AAAAfYtKtUo:APA91bEa_MdCO0pgjVbTYQDYY7ZJqtT2nPvJyBtnRlAgpekktjYtuDK_Ys5Zrj-QqVJJRC84UhgZCdFXvDswtLpssrBenNHZuv6c5q2DaEAA0Mxfor2mjjHs7eqVs4D7Kquah_qmqdkS"
+                    //there should be a key which I am not sharing here
 
             );
             remoteMsgHeaders.put(
